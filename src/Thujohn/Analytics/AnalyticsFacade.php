@@ -9,6 +9,6 @@ class AnalyticsFacade extends Facade {
 	 *
 	 * @return string
 	 */
-	protected static function getFacadeAccessor() { return 'analytics'; }
+	protected static function getFacadeAccessor() { return 'analyticsapi'; }
 
 }
